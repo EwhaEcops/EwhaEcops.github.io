@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/activity-dark.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/activity-dark.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/activity.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/activity.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/main-dark.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/main-dark.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/members-dark.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/members-dark.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/members.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/members.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/recruit-dark.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/recruit-dark.html" afterDir="false" />
@@ -50,6 +49,7 @@
       <workItem from="1650380003860" duration="264000" />
       <workItem from="1650380647812" duration="1187000" />
       <workItem from="1650421375201" duration="2062000" />
+      <workItem from="1650431342423" duration="119000" />
     </task>
     <servers />
   </component>
